@@ -12,14 +12,20 @@
 
 ### Tips：如果遇到空白页面请返回桌面从第一步开始，如果还不行就清除“小爱同学“的全部应用信息重新开始。
 
-### 一、![](./introduce/1.png)
+### 一、
+![](./introduce/1.png)
 
-### 二、![](./introduce/2.png)
+### 二、
+![](./introduce/2.png)
 
-### 三、![](./introduce/3.png)
+### 三、
+![](./introduce/3.png)
 
-### 四、![](./introduce/4.png)
+### 四、
+![](./introduce/4.png)
 
-### 五、![](./introduce/5.png)
+### 五、
+![](./introduce/5.png)
 
-### 六、![](./introduce/6.jpg)
+### 六、
+![](./introduce/6.jpg)
